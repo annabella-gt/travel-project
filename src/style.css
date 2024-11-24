@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", serif;
-  background: #272044;
+  background: #301c1a;
 }
 
 header {
@@ -178,6 +178,10 @@ section.secondary {
   width: 100%;
   aspect-ratio: 1 / 1;
 }
+.gallery-embeds {
+  margin: 30px 0;
+}
+
 .btn {
   display: block;
   color: white;
